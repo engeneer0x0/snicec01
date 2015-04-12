@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ui.DetailA" >
+
+    
+
+    <TextView 
+        android:id="@+id/text_name_pays"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Name"/>
+    
+    <TextView 
+        android:id="@+id/text_population"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Popu"/>
+    
+    <TextView 
+        android:id="@+id/text_surface_agricole"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/S"/>
+    
+    <TextView 
+        android:id="@+id/text_climat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/VTCC"/>
+    
+    <TextView 
+        android:id="@+id/text_croissance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Growth"/>
+    
+    <TextView 
+        android:id="@+id/text_pib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/BIP"/>
+    
+    <TextView 
+        android:id="@+id/text_annee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Yf"/>
+    
+    <TextView 
+        android:id="@+id/text_production"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Prod"/>
+
+</LinearLayout>

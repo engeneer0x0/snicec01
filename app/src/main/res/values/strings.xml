@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Credits</string>
+    <string name="title_activity_forum">Forum</string>
+    <string name="title_activity_dons">Dons</string>
+    <string name="title_activity_mapping">Mapping</string>
+    <string name="title_activity_detail">DetailA</string>
+    <string name="desc">World Harvest Map</string>
+    <string name="don">Donate !</string>
+    <string name="NCC">Number credit card : "</string>
+    <string name="NFCC">Number of credit card</string>
+    <string name="YFE">Year of expirat : </string>
+    <string name="DMY">DD/MM/YY</string>
+    <string name="MFE">Month of expiration : </string>
+    <string name="IAG">I Agree</string>
+    <string name="MM">MM</string> 
+    <string name="PBYST">Powerd By - Stripe -  Copyright &#169;2015</string> 
+    <string name="V">Validat</string>  
+    
+    <string name="Name">Name :</string> 
+    <string name="Popu">Population :</string> 
+    <string name="S">Surface :</string> 
+    <string name="VTCC">Vulnerability to Climat Change</string> 
+    <string name="Growth">Growth :</string> 
+    <string name="BIP">BIP :</string> 
+    <string name="Prod">Production :</string> 
+    <string name="Yf">year :</string> 
+    
+    
+    <string name="Search">Search</string> 
+   
+
+</resources>
