@@ -9,6 +9,8 @@ public static final class PaysEntry implements BaseColumns{
 		public static final String NOM_TABLE = "Pays";
 		public static final String COLUMN_NOM_PAYS = "nom_pays";
 	}
+
+
 	
 	public static final class InformationEntry implements BaseColumns{
 		
